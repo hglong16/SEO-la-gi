@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: SEO là gì?
+author: jk.SEO
+email: intihad.vuong@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tối ưu hóa công cụ tìm kiếm - SEO - thường là việc thực hiện các chỉnh sửa đổi nhỏ đối với các phần trên trang web. Nó là những cải tiến tăng thêm và khi kết hợp với các tối ưu khác sẽ giúp cải thiện trải nghiệm người dùng.*
+
+*Tối ưu hóa công cụ tìm kiếm là công việc nhằm mục đích giúp công cụ tìm kiếm hiểu và trình bày nội dung, ~~tăng thứ hạng trong trang kết quả tìm kiếm.~~*
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  longsjc # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
